@@ -1,14 +1,19 @@
+<!DOCTYPE html>
+<html lang='en'>
+  
 <p id="notice"><%= notice %></p>
 
 <p>
-  <strong>Name:</strong>
-  <%= @member.name %>
+  <strong>Title:</strong>
+  <%= @member.title %>
 </p>
 
 <p>
-  <strong>Age:</strong>
-  <%= @member.age %>
+  <strong>Release Date:</strong>
+  <%= @member.release %>
 </p>
 
 <%= link_to 'Edit', edit_member_path(@member) %> |
 <%= link_to 'Back', members_path %>
+
+</html>
