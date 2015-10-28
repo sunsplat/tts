@@ -14,6 +14,6 @@ Rails is a Framework for creating dynamics websites, using the Ruby programming 
 * Controllers, Models and Views make up the MVC structure.
 * Helpers are repos for extra code, Mailers are for setting up sending emails.
 
-Access the tutorial online here: [http://techtalentsouth.slides.com/techtalentsouth/zero-to-heroku-workshop?token=r_LQ9_iu#/]
+[Access the tutorial online here](http://techtalentsouth.slides.com/techtalentsouth/zero-to-heroku-workshop?token=r_LQ9_iu#/)
 
 [See my finished product here!](https://tts2.herokuapp.com/)
